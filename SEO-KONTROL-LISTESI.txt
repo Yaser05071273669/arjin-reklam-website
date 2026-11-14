@@ -1,0 +1,30 @@
+ARJIN REKLAM — 12 KASIM 2026 SEO GELİŞTİRMELERİ
+
+YENİ SAYFALAR
+- Işıklı / LED tabela
+- Işıksız tabela
+- Kutu harf tabela
+- Dijital baskı / branda / folyo
+- Araç giydirme
+- Totem / yönlendirme
+- Vitrin folyo / reklam uygulamaları
+
+KORUNANLAR
+- 338 gerçek proje fotoğrafı ve filtreleri
+- Ana sayfadaki ışıklı tabela görseli, hizmet görselleri ve sayfa düzeni
+- Teklif Al / Teklif İste butonları ve WhatsApp üzerinden talep sistemi
+- Mevcut hakkımızda, iletişim, proje ve teklif sayfaları
+
+GÜNCELLEME SONRASI
+1. ZIP'i açın; tüm dosyaları aynı dizin yapısıyla asıl Netlify projesine yükleyin.
+2. https://arjinreklam.com/sitemap.xml adresini kontrol edin.
+3. Search Console > Site Haritaları'nda mevcut sitemap adresi güncellenecektir. Gerekirse yeniden gönderin.
+4. Search Console > URL Denetimi ile yeni hizmet sayfalarından birini canlı test edin.
+5. Google İşletme Profili'nde gerçek firma bilgileri ve hizmet bağlantılarını güncelleyin (hesaba erişiminiz varsa).
+6. Search Console > Performans > Arama sonuçları'ndan gerçek sorguların ve tıklamaların 28-90 gün sonrasındaki verilerini inceleyin.
+7. Google Keyword Planner veya Ads ile arama hacmi ve rekabet değerlerini ayrıca araştırın. Bu pakette hacim verisi uydurulmamıştır.
+
+DİKKAT
+- Google ilk sayfa sonucu garanti edilemez. Sıralama; rekabet, içerik kalitesi, yerel alakâ, işletme profili ve diğer etkenlere bağlıdır.
+- Gerçek dışı referans, yorum, garanti, süre ve fiyat iddiası eklenmedi.
+- Teknik hizmet sayfaları kullanıcıya yararlı bilgi vermek için hazırlandı; SEO anahtar kelime doldurma amaçlı değildir.

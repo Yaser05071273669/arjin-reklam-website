@@ -1,0 +1,3202 @@
+{
+  "note": "Görünen tabela/uygulama türüne göre sınıflandırıldı; iş isimleri yayımlanmaz. Yeni fotoğraflar yinelenenler çıkarılarak eklendi.",
+  "total_received": 368,
+  "published": 338,
+  "excluded_near_duplicates": {
+    "62": 61,
+    "64": 63,
+    "66": 65
+  },
+  "categories": {
+    "led": {
+      "label": "Işıklı & LED Tabela",
+      "count": 77
+    },
+    "kutu": {
+      "label": "Kutu Harf & Cephe",
+      "count": 100
+    },
+    "baski": {
+      "label": "Dijital Baskı & Giydirme",
+      "count": 62
+    },
+    "arac": {
+      "label": "Araç Giydirme",
+      "count": 13
+    },
+    "yon": {
+      "label": "Totem & Yönlendirme",
+      "count": 23
+    },
+    "ic": {
+      "label": "İç Mekân & Dekoratif",
+      "count": 50
+    },
+    "diger": {
+      "label": "Diğer Reklam Çalışmaları",
+      "count": 13
+    }
+  },
+  "photos": [
+    {
+      "id": 1,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-001.webp",
+      "full": "assets/projeler/full/proje-001.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 2,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-002.webp",
+      "full": "assets/projeler/full/proje-002.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 3,
+      "category": "yon",
+      "category_name": "Totem & Yönlendirme",
+      "thumb": "assets/projeler/thumbs/proje-003.webp",
+      "full": "assets/projeler/full/proje-003.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 4,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-004.webp",
+      "full": "assets/projeler/full/proje-004.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 5,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-005.webp",
+      "full": "assets/projeler/full/proje-005.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 6,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-006.webp",
+      "full": "assets/projeler/full/proje-006.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 7,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-007.webp",
+      "full": "assets/projeler/full/proje-007.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 8,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "thumb": "assets/projeler/thumbs/proje-008.webp",
+      "full": "assets/projeler/full/proje-008.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 9,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-009.webp",
+      "full": "assets/projeler/full/proje-009.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 10,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-010.webp",
+      "full": "assets/projeler/full/proje-010.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 11,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-011.webp",
+      "full": "assets/projeler/full/proje-011.webp",
+      "width": 899,
+      "height": 1599,
+      "format": "webp"
+    },
+    {
+      "id": 12,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-012.webp",
+      "full": "assets/projeler/full/proje-012.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 13,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-013.webp",
+      "full": "assets/projeler/full/proje-013.webp",
+      "width": 2048,
+      "height": 1152,
+      "format": "webp"
+    },
+    {
+      "id": 14,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-014.webp",
+      "full": "assets/projeler/full/proje-014.webp",
+      "width": 1536,
+      "height": 2048,
+      "format": "webp"
+    },
+    {
+      "id": 15,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "thumb": "assets/projeler/thumbs/proje-015.webp",
+      "full": "assets/projeler/full/proje-015.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 16,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-016.webp",
+      "full": "assets/projeler/full/proje-016.webp",
+      "width": 1600,
+      "height": 1200,
+      "format": "webp"
+    },
+    {
+      "id": 17,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-017.webp",
+      "full": "assets/projeler/full/proje-017.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 18,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-018.webp",
+      "full": "assets/projeler/full/proje-018.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 19,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-019.webp",
+      "full": "assets/projeler/full/proje-019.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 20,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-020.webp",
+      "full": "assets/projeler/full/proje-020.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 21,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "thumb": "assets/projeler/thumbs/proje-021.webp",
+      "full": "assets/projeler/full/proje-021.webp",
+      "width": 1536,
+      "height": 2048,
+      "format": "webp"
+    },
+    {
+      "id": 22,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "thumb": "assets/projeler/thumbs/proje-022.webp",
+      "full": "assets/projeler/full/proje-022.webp",
+      "width": 768,
+      "height": 1024,
+      "format": "webp"
+    },
+    {
+      "id": 23,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "thumb": "assets/projeler/thumbs/proje-023.webp",
+      "full": "assets/projeler/full/proje-023.webp",
+      "width": 540,
+      "height": 960,
+      "format": "webp"
+    },
+    {
+      "id": 24,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-024.webp",
+      "full": "assets/projeler/full/proje-024.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 25,
+      "category": "diger",
+      "category_name": "Diğer Reklam Çalışmaları",
+      "thumb": "assets/projeler/thumbs/proje-025.webp",
+      "full": "assets/projeler/full/proje-025.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 26,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-026.webp",
+      "full": "assets/projeler/full/proje-026.webp",
+      "width": 2048,
+      "height": 1152,
+      "format": "webp"
+    },
+    {
+      "id": 27,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-027.webp",
+      "full": "assets/projeler/full/proje-027.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 28,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "thumb": "assets/projeler/thumbs/proje-028.webp",
+      "full": "assets/projeler/full/proje-028.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 29,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "thumb": "assets/projeler/thumbs/proje-029.webp",
+      "full": "assets/projeler/full/proje-029.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 30,
+      "category": "diger",
+      "category_name": "Diğer Reklam Çalışmaları",
+      "thumb": "assets/projeler/thumbs/proje-030.webp",
+      "full": "assets/projeler/full/proje-030.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 31,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-031.webp",
+      "full": "assets/projeler/full/proje-031.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 32,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-032.webp",
+      "full": "assets/projeler/full/proje-032.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 33,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "thumb": "assets/projeler/thumbs/proje-033.webp",
+      "full": "assets/projeler/full/proje-033.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 34,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-034.webp",
+      "full": "assets/projeler/full/proje-034.webp",
+      "width": 2000,
+      "height": 1500,
+      "format": "webp"
+    },
+    {
+      "id": 35,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "thumb": "assets/projeler/thumbs/proje-035.webp",
+      "full": "assets/projeler/full/proje-035.webp",
+      "width": 1152,
+      "height": 2048,
+      "format": "webp"
+    },
+    {
+      "id": 36,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-036.webp",
+      "full": "assets/projeler/full/proje-036.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 37,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-037.webp",
+      "full": "assets/projeler/full/proje-037.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 38,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-038.webp",
+      "full": "assets/projeler/full/proje-038.webp",
+      "width": 2048,
+      "height": 1536,
+      "format": "webp"
+    },
+    {
+      "id": 39,
+      "category": "yon",
+      "category_name": "Totem & Yönlendirme",
+      "thumb": "assets/projeler/thumbs/proje-039.webp",
+      "full": "assets/projeler/full/proje-039.webp",
+      "width": 1536,
+      "height": 2048,
+      "format": "webp"
+    },
+    {
+      "id": 40,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-040.webp",
+      "full": "assets/projeler/full/proje-040.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 41,
+      "category": "yon",
+      "category_name": "Totem & Yönlendirme",
+      "thumb": "assets/projeler/thumbs/proje-041.webp",
+      "full": "assets/projeler/full/proje-041.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 42,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-042.webp",
+      "full": "assets/projeler/full/proje-042.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 43,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-043.webp",
+      "full": "assets/projeler/full/proje-043.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 44,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-044.webp",
+      "full": "assets/projeler/full/proje-044.webp",
+      "width": 960,
+      "height": 1280,
+      "format": "webp"
+    },
+    {
+      "id": 45,
+      "category": "yon",
+      "category_name": "Totem & Yönlendirme",
+      "thumb": "assets/projeler/thumbs/proje-045.webp",
+      "full": "assets/projeler/full/proje-045.webp",
+      "width": 1536,
+      "height": 2048,
+      "format": "webp"
+    },
+    {
+      "id": 46,
+      "category": "yon",
+      "category_name": "Totem & Yönlendirme",
+      "thumb": "assets/projeler/thumbs/proje-046.webp",
+      "full": "assets/projeler/full/proje-046.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 47,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-047.webp",
+      "full": "assets/projeler/full/proje-047.webp",
+      "width": 1152,
+      "height": 2048,
+      "format": "webp"
+    },
+    {
+      "id": 48,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-048.webp",
+      "full": "assets/projeler/full/proje-048.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 49,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-049.webp",
+      "full": "assets/projeler/full/proje-049.webp",
+      "width": 900,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 50,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-050.webp",
+      "full": "assets/projeler/full/proje-050.webp",
+      "width": 2048,
+      "height": 2048,
+      "format": "webp"
+    },
+    {
+      "id": 51,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-051.webp",
+      "full": "assets/projeler/full/proje-051.webp",
+      "width": 1080,
+      "height": 1920,
+      "format": "webp"
+    },
+    {
+      "id": 52,
+      "category": "diger",
+      "category_name": "Diğer Reklam Çalışmaları",
+      "thumb": "assets/projeler/thumbs/proje-052.webp",
+      "full": "assets/projeler/full/proje-052.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 53,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-053.webp",
+      "full": "assets/projeler/full/proje-053.webp",
+      "width": 2048,
+      "height": 1536,
+      "format": "webp"
+    },
+    {
+      "id": 54,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "thumb": "assets/projeler/thumbs/proje-054.webp",
+      "full": "assets/projeler/full/proje-054.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 55,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-055.webp",
+      "full": "assets/projeler/full/proje-055.webp",
+      "width": 2048,
+      "height": 1152,
+      "format": "webp"
+    },
+    {
+      "id": 56,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-056.webp",
+      "full": "assets/projeler/full/proje-056.webp",
+      "width": 2016,
+      "height": 1134,
+      "format": "webp"
+    },
+    {
+      "id": 57,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "thumb": "assets/projeler/thumbs/proje-057.webp",
+      "full": "assets/projeler/full/proje-057.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 58,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-058.webp",
+      "full": "assets/projeler/full/proje-058.webp",
+      "width": 1500,
+      "height": 2000,
+      "format": "webp"
+    },
+    {
+      "id": 59,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-059.webp",
+      "full": "assets/projeler/full/proje-059.webp",
+      "width": 1536,
+      "height": 2048,
+      "format": "webp"
+    },
+    {
+      "id": 60,
+      "category": "diger",
+      "category_name": "Diğer Reklam Çalışmaları",
+      "thumb": "assets/projeler/thumbs/proje-060.webp",
+      "full": "assets/projeler/full/proje-060.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 61,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "thumb": "assets/projeler/thumbs/proje-061.webp",
+      "full": "assets/projeler/full/proje-061.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 63,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-063.webp",
+      "full": "assets/projeler/full/proje-063.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 65,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-065.webp",
+      "full": "assets/projeler/full/proje-065.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 67,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "thumb": "assets/projeler/thumbs/proje-067.webp",
+      "full": "assets/projeler/full/proje-067.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 68,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-068.webp",
+      "full": "assets/projeler/full/proje-068.webp",
+      "width": 1080,
+      "height": 1920,
+      "format": "webp"
+    },
+    {
+      "id": 69,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-069.webp",
+      "full": "assets/projeler/full/proje-069.webp",
+      "width": 1600,
+      "height": 1200,
+      "format": "webp"
+    },
+    {
+      "id": 70,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "thumb": "assets/projeler/thumbs/proje-070.webp",
+      "full": "assets/projeler/full/proje-070.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 71,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-071.webp",
+      "full": "assets/projeler/full/proje-071.webp",
+      "width": 1200,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 72,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-072.webp",
+      "full": "assets/projeler/full/proje-072.webp",
+      "width": 1600,
+      "height": 1200,
+      "format": "webp"
+    },
+    {
+      "id": 73,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-073.webp",
+      "full": "assets/projeler/full/proje-073.webp",
+      "width": 1600,
+      "height": 900,
+      "format": "webp"
+    },
+    {
+      "id": 74,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-074.webp",
+      "full": "assets/projeler/full/proje-074.webp",
+      "width": 1496,
+      "height": 1496,
+      "format": "webp"
+    },
+    {
+      "id": 75,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "thumb": "assets/projeler/thumbs/proje-075.webp",
+      "full": "assets/projeler/full/proje-075.webp",
+      "width": 2048,
+      "height": 1152,
+      "format": "webp"
+    },
+    {
+      "id": 76,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-076.webp",
+      "full": "assets/projeler/full/proje-076.webp",
+      "width": 1496,
+      "height": 1496,
+      "format": "webp"
+    },
+    {
+      "id": 77,
+      "category": "yon",
+      "category_name": "Totem & Yönlendirme",
+      "thumb": "assets/projeler/thumbs/proje-077.webp",
+      "full": "assets/projeler/full/proje-077.webp",
+      "width": 2048,
+      "height": 1536,
+      "format": "webp"
+    },
+    {
+      "id": 78,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "thumb": "assets/projeler/thumbs/proje-078.webp",
+      "full": "assets/projeler/full/proje-078.webp",
+      "width": 1536,
+      "height": 2048,
+      "format": "webp"
+    },
+    {
+      "id": 79,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-079.webp",
+      "full": "assets/projeler/full/proje-079.webp",
+      "width": 1600,
+      "height": 1067,
+      "format": "webp"
+    },
+    {
+      "id": 80,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-080.webp",
+      "full": "assets/projeler/full/proje-080.webp",
+      "width": 1496,
+      "height": 1496,
+      "format": "webp"
+    },
+    {
+      "id": 81,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-081.webp",
+      "full": "assets/projeler/full/proje-081.webp",
+      "width": 1496,
+      "height": 1496,
+      "format": "webp"
+    },
+    {
+      "id": 82,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-082.webp",
+      "full": "assets/projeler/full/proje-082.webp",
+      "width": 1496,
+      "height": 1496,
+      "format": "webp"
+    },
+    {
+      "id": 83,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-083.webp",
+      "full": "assets/projeler/full/proje-083.webp",
+      "width": 1496,
+      "height": 1496,
+      "format": "webp"
+    },
+    {
+      "id": 84,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-084.webp",
+      "full": "assets/projeler/full/proje-084.webp",
+      "width": 1496,
+      "height": 1496,
+      "format": "webp"
+    },
+    {
+      "id": 85,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-085.webp",
+      "full": "assets/projeler/full/proje-085.webp",
+      "width": 1196,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 86,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-086.webp",
+      "full": "assets/projeler/full/proje-086.webp",
+      "width": 1196,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 87,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "thumb": "assets/projeler/thumbs/proje-087.webp",
+      "full": "assets/projeler/full/proje-087.webp",
+      "width": 1196,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 88,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-088.webp",
+      "full": "assets/projeler/full/proje-088.webp",
+      "width": 1196,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 89,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-089.webp",
+      "full": "assets/projeler/full/proje-089.webp",
+      "width": 1196,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 90,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-090.webp",
+      "full": "assets/projeler/full/proje-090.webp",
+      "width": 1196,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 91,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-091.webp",
+      "full": "assets/projeler/full/proje-091.webp",
+      "width": 1196,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 92,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-092.webp",
+      "full": "assets/projeler/full/proje-092.webp",
+      "width": 1600,
+      "height": 1196,
+      "format": "webp"
+    },
+    {
+      "id": 93,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-093.webp",
+      "full": "assets/projeler/full/proje-093.webp",
+      "width": 1196,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 94,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "thumb": "assets/projeler/thumbs/proje-094.webp",
+      "full": "assets/projeler/full/proje-094.webp",
+      "width": 1080,
+      "height": 1920,
+      "format": "webp"
+    },
+    {
+      "id": 95,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-095.webp",
+      "full": "assets/projeler/full/proje-095.webp",
+      "width": 1599,
+      "height": 899,
+      "format": "webp"
+    },
+    {
+      "id": 96,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "thumb": "assets/projeler/thumbs/proje-096.webp",
+      "full": "assets/projeler/full/proje-096.webp",
+      "width": 2048,
+      "height": 1152,
+      "format": "webp"
+    },
+    {
+      "id": 97,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-097.webp",
+      "full": "assets/projeler/full/proje-097.webp",
+      "width": 960,
+      "height": 1280,
+      "format": "webp"
+    },
+    {
+      "id": 98,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-098.webp",
+      "full": "assets/projeler/full/proje-098.webp",
+      "width": 899,
+      "height": 1599,
+      "format": "webp"
+    },
+    {
+      "id": 99,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-099.webp",
+      "full": "assets/projeler/full/proje-099.webp",
+      "width": 1080,
+      "height": 1920,
+      "format": "webp"
+    },
+    {
+      "id": 100,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "thumb": "assets/projeler/thumbs/proje-100.webp",
+      "full": "assets/projeler/full/proje-100.webp",
+      "width": 1080,
+      "height": 1429,
+      "format": "webp"
+    },
+    {
+      "id": 101,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-101.webp",
+      "full": "assets/projeler/full/proje-101.webp",
+      "width": 1196,
+      "height": 1600,
+      "format": "webp"
+    },
+    {
+      "id": 102,
+      "category": "yon",
+      "category_name": "Totem & Yönlendirme",
+      "thumb": "assets/projeler/thumbs/proje-102.webp",
+      "full": "assets/projeler/full/proje-102.webp",
+      "width": 1536,
+      "height": 2048,
+      "format": "webp"
+    },
+    {
+      "id": 103,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-103.webp",
+      "full": "assets/projeler/full/proje-103.webp",
+      "width": 1080,
+      "height": 1053,
+      "format": "webp"
+    },
+    {
+      "id": 104,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-104.webp",
+      "full": "assets/projeler/full/proje-104.webp",
+      "width": 1191,
+      "height": 891,
+      "format": "webp"
+    },
+    {
+      "id": 105,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "thumb": "assets/projeler/thumbs/proje-105.webp",
+      "full": "assets/projeler/full/proje-105.webp",
+      "width": 1191,
+      "height": 891,
+      "format": "webp"
+    },
+    {
+      "id": 106,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-106.webp",
+      "full": "assets/projeler/full/proje-106.webp",
+      "width": 1600,
+      "height": 1196,
+      "format": "webp"
+    },
+    {
+      "id": 107,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-107.webp",
+      "full": "assets/projeler/full/proje-107.webp",
+      "width": 501,
+      "height": 891,
+      "format": "webp"
+    },
+    {
+      "id": 108,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "thumb": "assets/projeler/thumbs/proje-108.webp",
+      "full": "assets/projeler/full/proje-108.webp",
+      "width": 1191,
+      "height": 891,
+      "format": "webp"
+    },
+    {
+      "id": 109,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-109.webp",
+      "full": "assets/projeler/full/proje-109.webp",
+      "width": 1191,
+      "height": 891,
+      "format": "webp"
+    },
+    {
+      "id": 110,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-110.webp",
+      "full": "assets/projeler/full/proje-110.webp",
+      "width": 412,
+      "height": 891,
+      "format": "webp"
+    },
+    {
+      "id": 111,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "thumb": "assets/projeler/thumbs/proje-111.webp",
+      "full": "assets/projeler/full/proje-111.webp",
+      "width": 1599,
+      "height": 899,
+      "format": "webp"
+    },
+    {
+      "id": 112,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "thumb": "assets/projeler/thumbs/proje-112.webp",
+      "full": "assets/projeler/full/proje-112.webp",
+      "width": 667,
+      "height": 891,
+      "format": "webp"
+    },
+    {
+      "id": 113,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "thumb": "assets/projeler/thumbs/proje-113.webp",
+      "full": "assets/projeler/full/proje-113.webp",
+      "width": 668,
+      "height": 891,
+      "format": "webp"
+    },
+    {
+      "id": 114,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "thumb": "assets/projeler/thumbs/proje-114.webp",
+      "full": "assets/projeler/full/proje-114.webp",
+      "width": 1000,
+      "height": 748,
+      "format": "webp"
+    },
+    {
+      "id": 115,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-115.webp",
+      "full": "assets/projeler/full/proje-115.webp",
+      "width": 1600,
+      "height": 1196,
+      "format": "webp"
+    },
+    {
+      "id": 116,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "thumb": "assets/projeler/thumbs/proje-116.webp",
+      "full": "assets/projeler/full/proje-116.webp",
+      "width": 1600,
+      "height": 800,
+      "format": "webp"
+    },
+    {
+      "id": 117,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "thumb": "assets/projeler/thumbs/proje-117.webp",
+      "full": "assets/projeler/full/proje-117.webp",
+      "width": 1188,
+      "height": 891,
+      "format": "webp"
+    },
+    {
+      "id": 118,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "thumb": "assets/projeler/thumbs/proje-118.webp",
+      "full": "assets/projeler/full/proje-118.webp",
+      "width": 1600,
+      "height": 1200,
+      "format": "webp"
+    },
+    {
+      "id": 116,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-116.webp",
+      "full": "assets/projeler/full/proje-116.webp"
+    },
+    {
+      "id": 117,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-117.webp",
+      "full": "assets/projeler/full/proje-117.webp"
+    },
+    {
+      "id": 118,
+      "category": "diger",
+      "category_name": "Diğer Reklam Çalışmaları",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-118.webp",
+      "full": "assets/projeler/full/proje-118.webp"
+    },
+    {
+      "id": 119,
+      "category": "diger",
+      "category_name": "Diğer Reklam Çalışmaları",
+      "width": 1350,
+      "height": 1800,
+      "thumb": "assets/projeler/thumbs/proje-119.webp",
+      "full": "assets/projeler/full/proje-119.webp"
+    },
+    {
+      "id": 120,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-120.webp",
+      "full": "assets/projeler/full/proje-120.webp"
+    },
+    {
+      "id": 121,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-121.webp",
+      "full": "assets/projeler/full/proje-121.webp"
+    },
+    {
+      "id": 122,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1350,
+      "height": 1800,
+      "thumb": "assets/projeler/thumbs/proje-122.webp",
+      "full": "assets/projeler/full/proje-122.webp"
+    },
+    {
+      "id": 123,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-123.webp",
+      "full": "assets/projeler/full/proje-123.webp"
+    },
+    {
+      "id": 124,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-124.webp",
+      "full": "assets/projeler/full/proje-124.webp"
+    },
+    {
+      "id": 125,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-125.webp",
+      "full": "assets/projeler/full/proje-125.webp"
+    },
+    {
+      "id": 126,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-126.webp",
+      "full": "assets/projeler/full/proje-126.webp"
+    },
+    {
+      "id": 127,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-127.webp",
+      "full": "assets/projeler/full/proje-127.webp"
+    },
+    {
+      "id": 128,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-128.webp",
+      "full": "assets/projeler/full/proje-128.webp"
+    },
+    {
+      "id": 129,
+      "category": "yon",
+      "category_name": "Totem & Yönlendirme",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-129.webp",
+      "full": "assets/projeler/full/proje-129.webp"
+    },
+    {
+      "id": 130,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1196,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-130.webp",
+      "full": "assets/projeler/full/proje-130.webp"
+    },
+    {
+      "id": 131,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-131.webp",
+      "full": "assets/projeler/full/proje-131.webp"
+    },
+    {
+      "id": 132,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-132.webp",
+      "full": "assets/projeler/full/proje-132.webp"
+    },
+    {
+      "id": 133,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-133.webp",
+      "full": "assets/projeler/full/proje-133.webp"
+    },
+    {
+      "id": 134,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-134.webp",
+      "full": "assets/projeler/full/proje-134.webp"
+    },
+    {
+      "id": 135,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-135.webp",
+      "full": "assets/projeler/full/proje-135.webp"
+    },
+    {
+      "id": 136,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1196,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-136.webp",
+      "full": "assets/projeler/full/proje-136.webp"
+    },
+    {
+      "id": 137,
+      "category": "yon",
+      "category_name": "Totem & Yönlendirme",
+      "width": 900,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-137.webp",
+      "full": "assets/projeler/full/proje-137.webp"
+    },
+    {
+      "id": 138,
+      "category": "yon",
+      "category_name": "Totem & Yönlendirme",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-138.webp",
+      "full": "assets/projeler/full/proje-138.webp"
+    },
+    {
+      "id": 139,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-139.webp",
+      "full": "assets/projeler/full/proje-139.webp"
+    },
+    {
+      "id": 140,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-140.webp",
+      "full": "assets/projeler/full/proje-140.webp"
+    },
+    {
+      "id": 141,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-141.webp",
+      "full": "assets/projeler/full/proje-141.webp"
+    },
+    {
+      "id": 142,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "assets/projeler/thumbs/proje-142.webp",
+      "full": "assets/projeler/full/proje-142.webp"
+    },
+    {
+      "id": 143,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-143.webp",
+      "full": "assets/projeler/full/proje-143.webp"
+    },
+    {
+      "id": 144,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-144.webp",
+      "full": "assets/projeler/full/proje-144.webp"
+    },
+    {
+      "id": 145,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-145.webp",
+      "full": "assets/projeler/full/proje-145.webp"
+    },
+    {
+      "id": 146,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-146.webp",
+      "full": "assets/projeler/full/proje-146.webp"
+    },
+    {
+      "id": 147,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-147.webp",
+      "full": "assets/projeler/full/proje-147.webp"
+    },
+    {
+      "id": 148,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-148.webp",
+      "full": "assets/projeler/full/proje-148.webp"
+    },
+    {
+      "id": 149,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-149.webp",
+      "full": "assets/projeler/full/proje-149.webp"
+    },
+    {
+      "id": 150,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-150.webp",
+      "full": "assets/projeler/full/proje-150.webp"
+    },
+    {
+      "id": 151,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-151.webp",
+      "full": "assets/projeler/full/proje-151.webp"
+    },
+    {
+      "id": 152,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-152.webp",
+      "full": "assets/projeler/full/proje-152.webp"
+    },
+    {
+      "id": 153,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-153.webp",
+      "full": "assets/projeler/full/proje-153.webp"
+    },
+    {
+      "id": 154,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1800,
+      "height": 1013,
+      "thumb": "assets/projeler/thumbs/proje-154.webp",
+      "full": "assets/projeler/full/proje-154.webp"
+    },
+    {
+      "id": 155,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-155.webp",
+      "full": "assets/projeler/full/proje-155.webp"
+    },
+    {
+      "id": 156,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-156.webp",
+      "full": "assets/projeler/full/proje-156.webp"
+    },
+    {
+      "id": 157,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1350,
+      "height": 1800,
+      "thumb": "assets/projeler/thumbs/proje-157.webp",
+      "full": "assets/projeler/full/proje-157.webp"
+    },
+    {
+      "id": 158,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-158.webp",
+      "full": "assets/projeler/full/proje-158.webp"
+    },
+    {
+      "id": 159,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-159.webp",
+      "full": "assets/projeler/full/proje-159.webp"
+    },
+    {
+      "id": 160,
+      "category": "yon",
+      "category_name": "Totem & Yönlendirme",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-160.webp",
+      "full": "assets/projeler/full/proje-160.webp"
+    },
+    {
+      "id": 161,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-161.webp",
+      "full": "assets/projeler/full/proje-161.webp"
+    },
+    {
+      "id": 162,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-162.webp",
+      "full": "assets/projeler/full/proje-162.webp"
+    },
+    {
+      "id": 163,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-163.webp",
+      "full": "assets/projeler/full/proje-163.webp"
+    },
+    {
+      "id": 164,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 900,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-164.webp",
+      "full": "assets/projeler/full/proje-164.webp"
+    },
+    {
+      "id": 165,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 900,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-165.webp",
+      "full": "assets/projeler/full/proje-165.webp"
+    },
+    {
+      "id": 166,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 899,
+      "height": 1599,
+      "thumb": "assets/projeler/thumbs/proje-166.webp",
+      "full": "assets/projeler/full/proje-166.webp"
+    },
+    {
+      "id": 167,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 768,
+      "height": 1024,
+      "thumb": "assets/projeler/thumbs/proje-167.webp",
+      "full": "assets/projeler/full/proje-167.webp"
+    },
+    {
+      "id": 168,
+      "category": "yon",
+      "category_name": "Totem & Yönlendirme",
+      "width": 899,
+      "height": 1599,
+      "thumb": "assets/projeler/thumbs/proje-168.webp",
+      "full": "assets/projeler/full/proje-168.webp"
+    },
+    {
+      "id": 169,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 900,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-169.webp",
+      "full": "assets/projeler/full/proje-169.webp"
+    },
+    {
+      "id": 170,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1024,
+      "height": 576,
+      "thumb": "assets/projeler/thumbs/proje-170.webp",
+      "full": "assets/projeler/full/proje-170.webp"
+    },
+    {
+      "id": 171,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1408,
+      "height": 792,
+      "thumb": "assets/projeler/thumbs/proje-171.webp",
+      "full": "assets/projeler/full/proje-171.webp"
+    },
+    {
+      "id": 172,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1012,
+      "height": 1800,
+      "thumb": "assets/projeler/thumbs/proje-172.webp",
+      "full": "assets/projeler/full/proje-172.webp"
+    },
+    {
+      "id": 173,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1600,
+      "height": 900,
+      "thumb": "assets/projeler/thumbs/proje-173.webp",
+      "full": "assets/projeler/full/proje-173.webp"
+    },
+    {
+      "id": 174,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1196,
+      "height": 1598,
+      "thumb": "assets/projeler/thumbs/proje-174.webp",
+      "full": "assets/projeler/full/proje-174.webp"
+    },
+    {
+      "id": 175,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-175.webp",
+      "full": "assets/projeler/full/proje-175.webp"
+    },
+    {
+      "id": 176,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-176.webp",
+      "full": "assets/projeler/full/proje-176.webp"
+    },
+    {
+      "id": 177,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1196,
+      "height": 1598,
+      "thumb": "assets/projeler/thumbs/proje-177.webp",
+      "full": "assets/projeler/full/proje-177.webp"
+    },
+    {
+      "id": 178,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1196,
+      "height": 1598,
+      "thumb": "assets/projeler/thumbs/proje-178.webp",
+      "full": "assets/projeler/full/proje-178.webp"
+    },
+    {
+      "id": 179,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1196,
+      "height": 1598,
+      "thumb": "assets/projeler/thumbs/proje-179.webp",
+      "full": "assets/projeler/full/proje-179.webp"
+    },
+    {
+      "id": 180,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1196,
+      "height": 1598,
+      "thumb": "assets/projeler/thumbs/proje-180.webp",
+      "full": "assets/projeler/full/proje-180.webp"
+    },
+    {
+      "id": 181,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1196,
+      "height": 1598,
+      "thumb": "assets/projeler/thumbs/proje-181.webp",
+      "full": "assets/projeler/full/proje-181.webp"
+    },
+    {
+      "id": 182,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1196,
+      "height": 1598,
+      "thumb": "assets/projeler/thumbs/proje-182.webp",
+      "full": "assets/projeler/full/proje-182.webp"
+    },
+    {
+      "id": 183,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1196,
+      "height": 1598,
+      "thumb": "assets/projeler/thumbs/proje-183.webp",
+      "full": "assets/projeler/full/proje-183.webp"
+    },
+    {
+      "id": 184,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1600,
+      "height": 1196,
+      "thumb": "assets/projeler/thumbs/proje-184.webp",
+      "full": "assets/projeler/full/proje-184.webp"
+    },
+    {
+      "id": 185,
+      "category": "yon",
+      "category_name": "Totem & Yönlendirme",
+      "width": 1496,
+      "height": 1496,
+      "thumb": "assets/projeler/thumbs/proje-185.webp",
+      "full": "assets/projeler/full/proje-185.webp"
+    },
+    {
+      "id": 186,
+      "category": "arac",
+      "category_name": "Araç Giydirme",
+      "width": 1496,
+      "height": 1496,
+      "thumb": "assets/projeler/thumbs/proje-186.webp",
+      "full": "assets/projeler/full/proje-186.webp"
+    },
+    {
+      "id": 187,
+      "category": "arac",
+      "category_name": "Araç Giydirme",
+      "width": 1496,
+      "height": 1496,
+      "thumb": "assets/projeler/thumbs/proje-187.webp",
+      "full": "assets/projeler/full/proje-187.webp"
+    },
+    {
+      "id": 188,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1496,
+      "height": 1496,
+      "thumb": "assets/projeler/thumbs/proje-188.webp",
+      "full": "assets/projeler/full/proje-188.webp"
+    },
+    {
+      "id": 189,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1496,
+      "height": 1496,
+      "thumb": "assets/projeler/thumbs/proje-189.webp",
+      "full": "assets/projeler/full/proje-189.webp"
+    },
+    {
+      "id": 190,
+      "category": "arac",
+      "category_name": "Araç Giydirme",
+      "width": 1496,
+      "height": 1496,
+      "thumb": "assets/projeler/thumbs/proje-190.webp",
+      "full": "assets/projeler/full/proje-190.webp"
+    },
+    {
+      "id": 191,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1496,
+      "height": 1496,
+      "thumb": "assets/projeler/thumbs/proje-191.webp",
+      "full": "assets/projeler/full/proje-191.webp"
+    },
+    {
+      "id": 192,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1496,
+      "height": 1496,
+      "thumb": "assets/projeler/thumbs/proje-192.webp",
+      "full": "assets/projeler/full/proje-192.webp"
+    },
+    {
+      "id": 193,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1496,
+      "height": 1496,
+      "thumb": "assets/projeler/thumbs/proje-193.webp",
+      "full": "assets/projeler/full/proje-193.webp"
+    },
+    {
+      "id": 194,
+      "category": "arac",
+      "category_name": "Araç Giydirme",
+      "width": 1496,
+      "height": 1496,
+      "thumb": "assets/projeler/thumbs/proje-194.webp",
+      "full": "assets/projeler/full/proje-194.webp"
+    },
+    {
+      "id": 195,
+      "category": "arac",
+      "category_name": "Araç Giydirme",
+      "width": 1496,
+      "height": 1496,
+      "thumb": "assets/projeler/thumbs/proje-195.webp",
+      "full": "assets/projeler/full/proje-195.webp"
+    },
+    {
+      "id": 196,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1496,
+      "height": 1496,
+      "thumb": "assets/projeler/thumbs/proje-196.webp",
+      "full": "assets/projeler/full/proje-196.webp"
+    },
+    {
+      "id": 197,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1196,
+      "height": 1598,
+      "thumb": "assets/projeler/thumbs/proje-197.webp",
+      "full": "assets/projeler/full/proje-197.webp"
+    },
+    {
+      "id": 198,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 748,
+      "height": 1000,
+      "thumb": "assets/projeler/thumbs/proje-198.webp",
+      "full": "assets/projeler/full/proje-198.webp"
+    },
+    {
+      "id": 199,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1196,
+      "height": 1598,
+      "thumb": "assets/projeler/thumbs/proje-199.webp",
+      "full": "assets/projeler/full/proje-199.webp"
+    },
+    {
+      "id": 200,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1196,
+      "height": 1598,
+      "thumb": "assets/projeler/thumbs/proje-200.webp",
+      "full": "assets/projeler/full/proje-200.webp"
+    },
+    {
+      "id": 201,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1196,
+      "height": 1598,
+      "thumb": "assets/projeler/thumbs/proje-201.webp",
+      "full": "assets/projeler/full/proje-201.webp"
+    },
+    {
+      "id": 202,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1196,
+      "height": 1598,
+      "thumb": "assets/projeler/thumbs/proje-202.webp",
+      "full": "assets/projeler/full/proje-202.webp"
+    },
+    {
+      "id": 203,
+      "category": "arac",
+      "category_name": "Araç Giydirme",
+      "width": 1196,
+      "height": 1598,
+      "thumb": "assets/projeler/thumbs/proje-203.webp",
+      "full": "assets/projeler/full/proje-203.webp"
+    },
+    {
+      "id": 204,
+      "category": "diger",
+      "category_name": "Diğer Reklam Çalışmaları",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-204.webp",
+      "full": "assets/projeler/full/proje-204.webp"
+    },
+    {
+      "id": 205,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1012,
+      "height": 1800,
+      "thumb": "assets/projeler/thumbs/proje-205.webp",
+      "full": "assets/projeler/full/proje-205.webp"
+    },
+    {
+      "id": 206,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1012,
+      "height": 1800,
+      "thumb": "assets/projeler/thumbs/proje-206.webp",
+      "full": "assets/projeler/full/proje-206.webp"
+    },
+    {
+      "id": 207,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1012,
+      "height": 1800,
+      "thumb": "assets/projeler/thumbs/proje-207.webp",
+      "full": "assets/projeler/full/proje-207.webp"
+    },
+    {
+      "id": 208,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1600,
+      "height": 1196,
+      "thumb": "assets/projeler/thumbs/proje-208.webp",
+      "full": "assets/projeler/full/proje-208.webp"
+    },
+    {
+      "id": 209,
+      "category": "arac",
+      "category_name": "Araç Giydirme",
+      "width": 1012,
+      "height": 1800,
+      "thumb": "assets/projeler/thumbs/proje-209.webp",
+      "full": "assets/projeler/full/proje-209.webp"
+    },
+    {
+      "id": 210,
+      "category": "arac",
+      "category_name": "Araç Giydirme",
+      "width": 1800,
+      "height": 1442,
+      "thumb": "assets/projeler/thumbs/proje-210.webp",
+      "full": "assets/projeler/full/proje-210.webp"
+    },
+    {
+      "id": 211,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1600,
+      "height": 1196,
+      "thumb": "assets/projeler/thumbs/proje-211.webp",
+      "full": "assets/projeler/full/proje-211.webp"
+    },
+    {
+      "id": 212,
+      "category": "arac",
+      "category_name": "Araç Giydirme",
+      "width": 1442,
+      "height": 1800,
+      "thumb": "assets/projeler/thumbs/proje-212.webp",
+      "full": "assets/projeler/full/proje-212.webp"
+    },
+    {
+      "id": 213,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1800,
+      "height": 1013,
+      "thumb": "assets/projeler/thumbs/proje-213.webp",
+      "full": "assets/projeler/full/proje-213.webp"
+    },
+    {
+      "id": 214,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1800,
+      "height": 1350,
+      "thumb": "assets/projeler/thumbs/proje-214.webp",
+      "full": "assets/projeler/full/proje-214.webp"
+    },
+    {
+      "id": 215,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1600,
+      "height": 1196,
+      "thumb": "assets/projeler/thumbs/proje-215.webp",
+      "full": "assets/projeler/full/proje-215.webp"
+    },
+    {
+      "id": 216,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1800,
+      "height": 1013,
+      "thumb": "assets/projeler/thumbs/proje-216.webp",
+      "full": "assets/projeler/full/proje-216.webp"
+    },
+    {
+      "id": 217,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1600,
+      "height": 1196,
+      "thumb": "assets/projeler/thumbs/proje-217.webp",
+      "full": "assets/projeler/full/proje-217.webp"
+    },
+    {
+      "id": 218,
+      "category": "yon",
+      "category_name": "Totem & Yönlendirme",
+      "width": 1196,
+      "height": 1598,
+      "thumb": "assets/projeler/thumbs/proje-218.webp",
+      "full": "assets/projeler/full/proje-218.webp"
+    },
+    {
+      "id": 219,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1600,
+      "height": 1196,
+      "thumb": "assets/projeler/thumbs/proje-219.webp",
+      "full": "assets/projeler/full/proje-219.webp"
+    },
+    {
+      "id": 220,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1196,
+      "height": 1598,
+      "thumb": "assets/projeler/thumbs/proje-220.webp",
+      "full": "assets/projeler/full/proje-220.webp"
+    },
+    {
+      "id": 221,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1600,
+      "height": 1196,
+      "thumb": "assets/projeler/thumbs/proje-221.webp",
+      "full": "assets/projeler/full/proje-221.webp"
+    },
+    {
+      "id": 222,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1600,
+      "height": 1196,
+      "thumb": "assets/projeler/thumbs/proje-222.webp",
+      "full": "assets/projeler/full/proje-222.webp"
+    },
+    {
+      "id": 223,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1600,
+      "height": 1196,
+      "thumb": "assets/projeler/thumbs/proje-223.webp",
+      "full": "assets/projeler/full/proje-223.webp"
+    },
+    {
+      "id": 224,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1600,
+      "height": 1196,
+      "thumb": "assets/projeler/thumbs/proje-224.webp",
+      "full": "assets/projeler/full/proje-224.webp"
+    },
+    {
+      "id": 225,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1600,
+      "height": 1196,
+      "thumb": "assets/projeler/thumbs/proje-225.webp",
+      "full": "assets/projeler/full/proje-225.webp"
+    },
+    {
+      "id": 226,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1196,
+      "height": 1598,
+      "thumb": "assets/projeler/thumbs/proje-226.webp",
+      "full": "assets/projeler/full/proje-226.webp"
+    },
+    {
+      "id": 227,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1600,
+      "height": 1196,
+      "thumb": "assets/projeler/thumbs/proje-227.webp",
+      "full": "assets/projeler/full/proje-227.webp"
+    },
+    {
+      "id": 228,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1600,
+      "height": 1196,
+      "thumb": "assets/projeler/thumbs/proje-228.webp",
+      "full": "assets/projeler/full/proje-228.webp"
+    },
+    {
+      "id": 229,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1600,
+      "height": 1196,
+      "thumb": "assets/projeler/thumbs/proje-229.webp",
+      "full": "assets/projeler/full/proje-229.webp"
+    },
+    {
+      "id": 230,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1196,
+      "height": 1598,
+      "thumb": "assets/projeler/thumbs/proje-230.webp",
+      "full": "assets/projeler/full/proje-230.webp"
+    },
+    {
+      "id": 231,
+      "category": "yon",
+      "category_name": "Totem & Yönlendirme",
+      "width": 1196,
+      "height": 1598,
+      "thumb": "assets/projeler/thumbs/proje-231.webp",
+      "full": "assets/projeler/full/proje-231.webp"
+    },
+    {
+      "id": 232,
+      "category": "arac",
+      "category_name": "Araç Giydirme",
+      "width": 1600,
+      "height": 1196,
+      "thumb": "assets/projeler/thumbs/proje-232.webp",
+      "full": "assets/projeler/full/proje-232.webp"
+    },
+    {
+      "id": 233,
+      "category": "arac",
+      "category_name": "Araç Giydirme",
+      "width": 1600,
+      "height": 1196,
+      "thumb": "assets/projeler/thumbs/proje-233.webp",
+      "full": "assets/projeler/full/proje-233.webp"
+    },
+    {
+      "id": 234,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1196,
+      "height": 1598,
+      "thumb": "assets/projeler/thumbs/proje-234.webp",
+      "full": "assets/projeler/full/proje-234.webp"
+    },
+    {
+      "id": 235,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1191,
+      "height": 891,
+      "thumb": "assets/projeler/thumbs/proje-235.webp",
+      "full": "assets/projeler/full/proje-235.webp"
+    },
+    {
+      "id": 236,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1191,
+      "height": 891,
+      "thumb": "assets/projeler/thumbs/proje-236.webp",
+      "full": "assets/projeler/full/proje-236.webp"
+    },
+    {
+      "id": 237,
+      "category": "yon",
+      "category_name": "Totem & Yönlendirme",
+      "width": 667,
+      "height": 891,
+      "thumb": "assets/projeler/thumbs/proje-237.webp",
+      "full": "assets/projeler/full/proje-237.webp"
+    },
+    {
+      "id": 238,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 667,
+      "height": 891,
+      "thumb": "assets/projeler/thumbs/proje-238.webp",
+      "full": "assets/projeler/full/proje-238.webp"
+    },
+    {
+      "id": 239,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1191,
+      "height": 891,
+      "thumb": "assets/projeler/thumbs/proje-239.webp",
+      "full": "assets/projeler/full/proje-239.webp"
+    },
+    {
+      "id": 240,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1584,
+      "height": 891,
+      "thumb": "assets/projeler/thumbs/proje-240.webp",
+      "full": "assets/projeler/full/proje-240.webp"
+    },
+    {
+      "id": 241,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1191,
+      "height": 891,
+      "thumb": "assets/projeler/thumbs/proje-241.webp",
+      "full": "assets/projeler/full/proje-241.webp"
+    },
+    {
+      "id": 242,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1191,
+      "height": 891,
+      "thumb": "assets/projeler/thumbs/proje-242.webp",
+      "full": "assets/projeler/full/proje-242.webp"
+    },
+    {
+      "id": 243,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1191,
+      "height": 891,
+      "thumb": "assets/projeler/thumbs/proje-243.webp",
+      "full": "assets/projeler/full/proje-243.webp"
+    },
+    {
+      "id": 244,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 667,
+      "height": 891,
+      "thumb": "assets/projeler/thumbs/proje-244.webp",
+      "full": "assets/projeler/full/proje-244.webp"
+    },
+    {
+      "id": 245,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 667,
+      "height": 891,
+      "thumb": "assets/projeler/thumbs/proje-245.webp",
+      "full": "assets/projeler/full/proje-245.webp"
+    },
+    {
+      "id": 246,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 667,
+      "height": 891,
+      "thumb": "assets/projeler/thumbs/proje-246.webp",
+      "full": "assets/projeler/full/proje-246.webp"
+    },
+    {
+      "id": 247,
+      "category": "yon",
+      "category_name": "Totem & Yönlendirme",
+      "width": 667,
+      "height": 891,
+      "thumb": "assets/projeler/thumbs/proje-247.webp",
+      "full": "assets/projeler/full/proje-247.webp"
+    },
+    {
+      "id": 248,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 667,
+      "height": 891,
+      "thumb": "assets/projeler/thumbs/proje-248.webp",
+      "full": "assets/projeler/full/proje-248.webp"
+    },
+    {
+      "id": 249,
+      "category": "yon",
+      "category_name": "Totem & Yönlendirme",
+      "width": 667,
+      "height": 891,
+      "thumb": "assets/projeler/thumbs/proje-249.webp",
+      "full": "assets/projeler/full/proje-249.webp"
+    },
+    {
+      "id": 250,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1188,
+      "height": 891,
+      "thumb": "assets/projeler/thumbs/proje-250.webp",
+      "full": "assets/projeler/full/proje-250.webp"
+    },
+    {
+      "id": 251,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1600,
+      "height": 1196,
+      "thumb": "assets/projeler/thumbs/proje-251.webp",
+      "full": "assets/projeler/full/proje-251.webp"
+    },
+    {
+      "id": 252,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 412,
+      "height": 891,
+      "thumb": "assets/projeler/thumbs/proje-252.webp",
+      "full": "assets/projeler/full/proje-252.webp"
+    },
+    {
+      "id": 253,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 412,
+      "height": 891,
+      "thumb": "assets/projeler/thumbs/proje-253.webp",
+      "full": "assets/projeler/full/proje-253.webp"
+    },
+    {
+      "id": 254,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1600,
+      "height": 739,
+      "thumb": "assets/projeler/thumbs/proje-254.webp",
+      "full": "assets/projeler/full/proje-254.webp"
+    },
+    {
+      "id": 255,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1600,
+      "height": 739,
+      "thumb": "assets/projeler/thumbs/proje-255.webp",
+      "full": "assets/projeler/full/proje-255.webp"
+    },
+    {
+      "id": 256,
+      "category": "diger",
+      "category_name": "Diğer Reklam Çalışmaları",
+      "width": 1584,
+      "height": 891,
+      "thumb": "assets/projeler/thumbs/proje-256.webp",
+      "full": "assets/projeler/full/proje-256.webp"
+    },
+    {
+      "id": 257,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 412,
+      "height": 891,
+      "thumb": "assets/projeler/thumbs/proje-257.webp",
+      "full": "assets/projeler/full/proje-257.webp"
+    },
+    {
+      "id": 258,
+      "category": "yon",
+      "category_name": "Totem & Yönlendirme",
+      "width": 668,
+      "height": 891,
+      "thumb": "assets/projeler/thumbs/proje-258.webp",
+      "full": "assets/projeler/full/proje-258.webp"
+    },
+    {
+      "id": 259,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 668,
+      "height": 891,
+      "thumb": "assets/projeler/thumbs/proje-259.webp",
+      "full": "assets/projeler/full/proje-259.webp"
+    },
+    {
+      "id": 260,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 668,
+      "height": 891,
+      "thumb": "assets/projeler/thumbs/proje-260.webp",
+      "full": "assets/projeler/full/proje-260.webp"
+    },
+    {
+      "id": 261,
+      "category": "arac",
+      "category_name": "Araç Giydirme",
+      "width": 1188,
+      "height": 891,
+      "thumb": "assets/projeler/thumbs/proje-261.webp",
+      "full": "assets/projeler/full/proje-261.webp"
+    },
+    {
+      "id": 262,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 668,
+      "height": 891,
+      "thumb": "assets/projeler/thumbs/proje-262.webp",
+      "full": "assets/projeler/full/proje-262.webp"
+    },
+    {
+      "id": 263,
+      "category": "diger",
+      "category_name": "Diğer Reklam Çalışmaları",
+      "width": 668,
+      "height": 891,
+      "thumb": "assets/projeler/thumbs/proje-263.webp",
+      "full": "assets/projeler/full/proje-263.webp"
+    },
+    {
+      "id": 264,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1600,
+      "height": 900,
+      "thumb": "assets/projeler/thumbs/proje-264.webp",
+      "full": "assets/projeler/full/proje-264.webp"
+    },
+    {
+      "id": 265,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1188,
+      "height": 891,
+      "thumb": "assets/projeler/thumbs/proje-265.webp",
+      "full": "assets/projeler/full/proje-265.webp"
+    },
+    {
+      "id": 266,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1408,
+      "height": 792,
+      "thumb": "assets/projeler/thumbs/proje-266.webp",
+      "full": "assets/projeler/full/proje-266.webp"
+    },
+    {
+      "id": 267,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1600,
+      "height": 900,
+      "thumb": "assets/projeler/thumbs/proje-267.webp",
+      "full": "assets/projeler/full/proje-267.webp"
+    },
+    {
+      "id": 268,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1600,
+      "height": 900,
+      "thumb": "assets/projeler/thumbs/proje-268.webp",
+      "full": "assets/projeler/full/proje-268.webp"
+    },
+    {
+      "id": 269,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1600,
+      "height": 900,
+      "thumb": "assets/projeler/thumbs/proje-269.webp",
+      "full": "assets/projeler/full/proje-269.webp"
+    },
+    {
+      "id": 270,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1600,
+      "height": 900,
+      "thumb": "assets/projeler/thumbs/proje-270.webp",
+      "full": "assets/projeler/full/proje-270.webp"
+    },
+    {
+      "id": 271,
+      "category": "diger",
+      "category_name": "Diğer Reklam Çalışmaları",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-271.webp",
+      "full": "assets/projeler/full/proje-271.webp"
+    },
+    {
+      "id": 272,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1600,
+      "height": 900,
+      "thumb": "assets/projeler/thumbs/proje-272.webp",
+      "full": "assets/projeler/full/proje-272.webp"
+    },
+    {
+      "id": 273,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "assets/projeler/thumbs/proje-273.webp",
+      "full": "assets/projeler/full/proje-273.webp"
+    },
+    {
+      "id": 274,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "assets/projeler/thumbs/proje-274.webp",
+      "full": "assets/projeler/full/proje-274.webp"
+    },
+    {
+      "id": 275,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-275.webp",
+      "full": "assets/projeler/full/proje-275.webp"
+    },
+    {
+      "id": 276,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-276.webp",
+      "full": "assets/projeler/full/proje-276.webp"
+    },
+    {
+      "id": 277,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "assets/projeler/thumbs/proje-277.webp",
+      "full": "assets/projeler/full/proje-277.webp"
+    },
+    {
+      "id": 278,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "assets/projeler/thumbs/proje-278.webp",
+      "full": "assets/projeler/full/proje-278.webp"
+    },
+    {
+      "id": 279,
+      "category": "yon",
+      "category_name": "Totem & Yönlendirme",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "assets/projeler/thumbs/proje-279.webp",
+      "full": "assets/projeler/full/proje-279.webp"
+    },
+    {
+      "id": 280,
+      "category": "diger",
+      "category_name": "Diğer Reklam Çalışmaları",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "assets/projeler/thumbs/proje-280.webp",
+      "full": "assets/projeler/full/proje-280.webp"
+    },
+    {
+      "id": 281,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "assets/projeler/thumbs/proje-281.webp",
+      "full": "assets/projeler/full/proje-281.webp"
+    },
+    {
+      "id": 282,
+      "category": "arac",
+      "category_name": "Araç Giydirme",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "assets/projeler/thumbs/proje-282.webp",
+      "full": "assets/projeler/full/proje-282.webp"
+    },
+    {
+      "id": 283,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "assets/projeler/thumbs/proje-283.webp",
+      "full": "assets/projeler/full/proje-283.webp"
+    },
+    {
+      "id": 284,
+      "category": "yon",
+      "category_name": "Totem & Yönlendirme",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "assets/projeler/thumbs/proje-284.webp",
+      "full": "assets/projeler/full/proje-284.webp"
+    },
+    {
+      "id": 285,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "assets/projeler/thumbs/proje-285.webp",
+      "full": "assets/projeler/full/proje-285.webp"
+    },
+    {
+      "id": 286,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "assets/projeler/thumbs/proje-286.webp",
+      "full": "assets/projeler/full/proje-286.webp"
+    },
+    {
+      "id": 287,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "assets/projeler/thumbs/proje-287.webp",
+      "full": "assets/projeler/full/proje-287.webp"
+    },
+    {
+      "id": 288,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "assets/projeler/thumbs/proje-288.webp",
+      "full": "assets/projeler/full/proje-288.webp"
+    },
+    {
+      "id": 289,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "assets/projeler/thumbs/proje-289.webp",
+      "full": "assets/projeler/full/proje-289.webp"
+    },
+    {
+      "id": 290,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "assets/projeler/thumbs/proje-290.webp",
+      "full": "assets/projeler/full/proje-290.webp"
+    },
+    {
+      "id": 291,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1600,
+      "height": 1071,
+      "thumb": "assets/projeler/thumbs/proje-291.webp",
+      "full": "assets/projeler/full/proje-291.webp"
+    },
+    {
+      "id": 292,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1196,
+      "height": 1598,
+      "thumb": "assets/projeler/thumbs/proje-292.webp",
+      "full": "assets/projeler/full/proje-292.webp"
+    },
+    {
+      "id": 293,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-293.webp",
+      "full": "assets/projeler/full/proje-293.webp"
+    },
+    {
+      "id": 294,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1196,
+      "height": 1598,
+      "thumb": "assets/projeler/thumbs/proje-294.webp",
+      "full": "assets/projeler/full/proje-294.webp"
+    },
+    {
+      "id": 295,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1196,
+      "height": 1598,
+      "thumb": "assets/projeler/thumbs/proje-295.webp",
+      "full": "assets/projeler/full/proje-295.webp"
+    },
+    {
+      "id": 296,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1196,
+      "height": 1598,
+      "thumb": "assets/projeler/thumbs/proje-296.webp",
+      "full": "assets/projeler/full/proje-296.webp"
+    },
+    {
+      "id": 297,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1196,
+      "height": 1598,
+      "thumb": "assets/projeler/thumbs/proje-297.webp",
+      "full": "assets/projeler/full/proje-297.webp"
+    },
+    {
+      "id": 298,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-298.webp",
+      "full": "assets/projeler/full/proje-298.webp"
+    },
+    {
+      "id": 299,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "assets/projeler/thumbs/proje-299.webp",
+      "full": "assets/projeler/full/proje-299.webp"
+    },
+    {
+      "id": 300,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-300.webp",
+      "full": "assets/projeler/full/proje-300.webp"
+    },
+    {
+      "id": 301,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-301.webp",
+      "full": "assets/projeler/full/proje-301.webp"
+    },
+    {
+      "id": 302,
+      "category": "diger",
+      "category_name": "Diğer Reklam Çalışmaları",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-302.webp",
+      "full": "assets/projeler/full/proje-302.webp"
+    },
+    {
+      "id": 303,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-303.webp",
+      "full": "assets/projeler/full/proje-303.webp"
+    },
+    {
+      "id": 304,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-304.webp",
+      "full": "assets/projeler/full/proje-304.webp"
+    },
+    {
+      "id": 305,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-305.webp",
+      "full": "assets/projeler/full/proje-305.webp"
+    },
+    {
+      "id": 306,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-306.webp",
+      "full": "assets/projeler/full/proje-306.webp"
+    },
+    {
+      "id": 307,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-307.webp",
+      "full": "assets/projeler/full/proje-307.webp"
+    },
+    {
+      "id": 308,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "assets/projeler/thumbs/proje-308.webp",
+      "full": "assets/projeler/full/proje-308.webp"
+    },
+    {
+      "id": 309,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-309.webp",
+      "full": "assets/projeler/full/proje-309.webp"
+    },
+    {
+      "id": 310,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-310.webp",
+      "full": "assets/projeler/full/proje-310.webp"
+    },
+    {
+      "id": 311,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-311.webp",
+      "full": "assets/projeler/full/proje-311.webp"
+    },
+    {
+      "id": 312,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-312.webp",
+      "full": "assets/projeler/full/proje-312.webp"
+    },
+    {
+      "id": 313,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-313.webp",
+      "full": "assets/projeler/full/proje-313.webp"
+    },
+    {
+      "id": 314,
+      "category": "yon",
+      "category_name": "Totem & Yönlendirme",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-314.webp",
+      "full": "assets/projeler/full/proje-314.webp"
+    },
+    {
+      "id": 315,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-315.webp",
+      "full": "assets/projeler/full/proje-315.webp"
+    },
+    {
+      "id": 316,
+      "category": "diger",
+      "category_name": "Diğer Reklam Çalışmaları",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-316.webp",
+      "full": "assets/projeler/full/proje-316.webp"
+    },
+    {
+      "id": 317,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-317.webp",
+      "full": "assets/projeler/full/proje-317.webp"
+    },
+    {
+      "id": 318,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-318.webp",
+      "full": "assets/projeler/full/proje-318.webp"
+    },
+    {
+      "id": 319,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-319.webp",
+      "full": "assets/projeler/full/proje-319.webp"
+    },
+    {
+      "id": 320,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-320.webp",
+      "full": "assets/projeler/full/proje-320.webp"
+    },
+    {
+      "id": 321,
+      "category": "yon",
+      "category_name": "Totem & Yönlendirme",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-321.webp",
+      "full": "assets/projeler/full/proje-321.webp"
+    },
+    {
+      "id": 322,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-322.webp",
+      "full": "assets/projeler/full/proje-322.webp"
+    },
+    {
+      "id": 323,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-323.webp",
+      "full": "assets/projeler/full/proje-323.webp"
+    },
+    {
+      "id": 324,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-324.webp",
+      "full": "assets/projeler/full/proje-324.webp"
+    },
+    {
+      "id": 325,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-325.webp",
+      "full": "assets/projeler/full/proje-325.webp"
+    },
+    {
+      "id": 326,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-326.webp",
+      "full": "assets/projeler/full/proje-326.webp"
+    },
+    {
+      "id": 327,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-327.webp",
+      "full": "assets/projeler/full/proje-327.webp"
+    },
+    {
+      "id": 328,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-328.webp",
+      "full": "assets/projeler/full/proje-328.webp"
+    },
+    {
+      "id": 329,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-329.webp",
+      "full": "assets/projeler/full/proje-329.webp"
+    },
+    {
+      "id": 330,
+      "category": "led",
+      "category_name": "Işıklı & LED Tabela",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-330.webp",
+      "full": "assets/projeler/full/proje-330.webp"
+    },
+    {
+      "id": 331,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-331.webp",
+      "full": "assets/projeler/full/proje-331.webp"
+    },
+    {
+      "id": 332,
+      "category": "ic",
+      "category_name": "İç Mekân & Dekoratif",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-332.webp",
+      "full": "assets/projeler/full/proje-332.webp"
+    },
+    {
+      "id": 333,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-333.webp",
+      "full": "assets/projeler/full/proje-333.webp"
+    },
+    {
+      "id": 334,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-334.webp",
+      "full": "assets/projeler/full/proje-334.webp"
+    },
+    {
+      "id": 335,
+      "category": "baski",
+      "category_name": "Dijital Baskı & Giydirme",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-335.webp",
+      "full": "assets/projeler/full/proje-335.webp"
+    },
+    {
+      "id": 336,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-336.webp",
+      "full": "assets/projeler/full/proje-336.webp"
+    },
+    {
+      "id": 337,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-337.webp",
+      "full": "assets/projeler/full/proje-337.webp"
+    },
+    {
+      "id": 338,
+      "category": "kutu",
+      "category_name": "Kutu Harf & Cephe",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/projeler/thumbs/proje-338.webp",
+      "full": "assets/projeler/full/proje-338.webp"
+    }
+  ],
+  "additional_uploads_received": 250,
+  "additional_unique_added": 223,
+  "excluded_from_new_uploads": 27
+}

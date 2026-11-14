@@ -1,0 +1,8 @@
+12 KASIM 2026 – SON GÜNCELLEME
+- Ana sayfanın fotoğrafları, büyük ışıklı ARJİN REKLAM tabelası ve düzeni korunmuştur.
+- 338 fotoğraflık galeri tamamlandı; tekrarlananlar atıldı.
+- Ücret göstermeyen, 4 aşamalı WhatsApp teklif formu eklendi: teklif-al.html
+- Teklif butonları yeni forma yönlendirildi, telefon/WhatsApp numarası korunmuştur.
+- İletişim formu kaldırıldı; email + Instagram + TikTok + WhatsApp + adres kartları eklendi.
+- HTTPS, SEO, sitemap, 6 sayfa, JavaScript, favicon, logolar ve mevcut içerik korundu.
+- Ana Sayfa ve Hizmetlerimizdeki araç giydirme görseli örnektir, gerçek referans değildir. Yeni gerçek araç fotoğrafları yalnızca galeriye eklendi.

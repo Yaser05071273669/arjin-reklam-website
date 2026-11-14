@@ -1,0 +1,13 @@
+ARJİN REKLAM – GERÇEK ÇALIŞMALAR GALERİSİ
+==========================================
+338 fotoğraf / 7 kategori. 115 eski proje korunup 223 yeni fotoğraf eklendi.
+Galeriye 250 fotoğraf yüklendi; 27 tekrar/uygunsuz görüntü elendi.
+
+Galeri filtreleri: Tüm Projeler, Işıklı & LED, Kutu Harf & Cephe,
+Dijital Baskı & Giydirme, Araç Giydirme, Totem & Yönlendirme,
+İç Mekân & Dekoratif, Diğer Reklam Çalışmaları.
+
+Fotoğrafı Büyüt ile açın; ileri/geri okları veya klavye oklarıyla gezinin.
+Dosyalar assets/projeler/thumbs ve assets/projeler/full altındadır.
+Fotoğrafların altında müşteri isimleri bulunmaz, yalnızca uygulama türü görünür.
+Kategoriler fotoğraflara bakılarak tahmin edilmiştir; teknik sınıflandırma kontrol edilebilir.
