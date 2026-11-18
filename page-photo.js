@@ -1,23 +1,41 @@
-/* Arjin Reklam: sadece altı hizmet kartındaki fotoğraflara güvenli Supabase overrides uygular. */
+/* Arjin Reklam fotoğraf alanları: ana sayfa / hizmetler güncelleme. */
 (() => {
   'use strict';
-  const cfg=window.ARJIN_PHOTO_CONFIG;
-  const page=location.pathname.split('/').pop()==='hizmetler.html'?'services':'home';
-  if (!cfg||!window.supabase||!cfg.publishableKey) return;
-  const imgs=[...document.querySelectorAll('.service-photo')].slice(0,6);
-  if (imgs.length!==6) return;
-  const client=window.supabase.createClient(cfg.url,cfg.publishableKey);
-  client.from('arjin_page_photos').select('slot_key,image_path,alt_text').eq('page_type',page).then(({data,error})=>{
-    if(error){console.warn('Sayfa görsel değişiklikleri yüklenemedi:',error.message);return;}
-    for(const item of data||[]){
-      const i=Number(item.slot_key?.replace('service-',''))-1;
-      if(!Number.isInteger(i)||i<0||i>=6||!item.image_path)continue;
-      const img=imgs[i],src=client.storage.from(cfg.bucket).getPublicUrl(item.image_path).data.publicUrl;
-      // srcset must be removed so browser does not keep rendering the old image.
-      img.removeAttribute('srcset');img.removeAttribute('sizes');img.src=src;
-      if(item.alt_text)img.alt=item.alt_text;
-      const visual=img.closest('.service-visual');
-      if(visual)visual.style.setProperty('--service-photo',`url("${src.replace(/"/g,'%22')}")`);
+  const config = window.ARJIN_PHOTO_CONFIG;
+  const path = decodeURIComponent(location.pathname).toLowerCase();
+  const page = path.endsWith('/hizmetler.html') || path.endsWith('/hizmetler/') ? 'services' : 'home';
+  const photos = [...document.querySelectorAll('.service-grid .service-card .service-photo')].slice(0, 6);
+  if (!config || !config.url || !config.publishableKey || !window.supabase) {
+    console.warn('Arjin fotoğraf bağlantısı henüz yüklenmedi.');
+    return;
+  }
+  if (photos.length !== 6) {
+    console.warn('Arjin: Bu sayfada 6 hizmet görseli bulunamadı.', photos.length);
+    return;
+  }
+  const client = window.supabase.createClient(config.url, config.publishableKey);
+  (async () => {
+    const { data, error } = await client.from('arjin_page_photos')
+      .select('page_type,slot_key,image_path,alt_text,updated_at')
+      .eq('page_type', page);
+    if (error) {
+      console.warn('Arjin: Hizmet fotoğrafları alınamadı:', error.message);
+      return;
     }
-  });
+    for (const item of (data || [])) {
+      const match = /^service-0?([1-6])$/.exec(item.slot_key || '');
+      if (!match || !item.image_path) continue;
+      const img = photos[Number(match[1]) - 1];
+      const publicUrl = client.storage.from(config.bucket).getPublicUrl(item.image_path).data.publicUrl;
+      if (!publicUrl) continue;
+      // The original HTML uses srcset; it must be removed to allow the new src to appear.
+      img.removeAttribute('srcset');
+      img.removeAttribute('sizes');
+      img.setAttribute('src', publicUrl);
+      if (item.alt_text) img.setAttribute('alt', item.alt_text);
+      const box = img.closest('.service-visual');
+      if (box) box.style.setProperty('--service-photo', `url("${publicUrl.replace(/"/g,'%22')}")`);
+    }
+    console.info(`Arjin ${page}: ${(data || []).length} fotoğraf değişikliği yüklendi.`);
+  })().catch(error => console.warn('Arjin fotoğraf yükleme hatası:', error));
 })();
