@@ -14,7 +14,7 @@
   function notice(message,error=false){const el=q('notice');el.hidden=false;el.textContent=message;el.className=`notice ${error?'error':'ok'}`;el.scrollIntoView({block:'nearest',behavior:'smooth'});}
   const setBusy=v=>{busy=v;q('upload-button').disabled=v;};
   const showLogin=()=>{q('login-panel').hidden=false;q('manage-panel').hidden=true;};
-  const showManager=()=>{q('login-panel').hidden=true;q('manage-panel').hidden=false;};
+  const showManager=()=>{q('login-panel').hidden=true;q('manage-panel').hidden=false;fetchSlots().catch(e=>notice('Sayfa fotoğrafları yüklenemedi: '+e.message,true));};
   function parseOriginal(html){
     const doc=new DOMParser().parseFromString(html,'text/html');
     return [...doc.querySelectorAll('#real-project-grid .photo-card')].map((el,i)=>({
@@ -115,6 +115,81 @@
   });
   for(const id of ['category-filter','photo-search','show-hidden'])q(id).addEventListener(id==='photo-search'?'input':'change',()=>{viewCount=30;render();});
   q('load-more').onclick=()=>{viewCount+=30;render();};
+
+  // 12 sabit hizmet fotoğrafı. Hero ve logo bu listede YOK, dolayısıyla kilitli.
+  const slotPages={home:'index.html',services:'hizmetler.html'};
+  let chosenPage='home',slotEntries=[],slotOriginal={},slotBusy=false;
+  const makeSlot=(i)=>`service-${String(i+1).padStart(2,'0')}`;
+  async function fetchSlots(){
+    const [r1,r2,db]=await Promise.all([
+      fetch('index.html',{cache:'no-store'}),fetch('hizmetler.html',{cache:'no-store'}),
+      client.from('arjin_page_photos').select('*')
+    ]);
+    if(!r1.ok||!r2.ok)throw new Error('Hizmet görselleri kaynak sayfalardan okunamadı.');
+    if(db.error)throw db.error;
+    for(const [page,text] of [['home',await r1.text()],['services',await r2.text()]]){
+      const doc=new DOMParser().parseFromString(text,'text/html');
+      const els=[...doc.querySelectorAll('.service-photo')].slice(0,6);
+      if(els.length!==6)throw new Error(page+' sayfasında 6 hizmet görseli bulunamadı.');
+      slotOriginal[page]=els.map((img,i)=>({slot_key:makeSlot(i),image:img.getAttribute('src'),alt:img.alt||'',
+        label:img.closest('.service-card')?.querySelector('h3')?.textContent?.trim()||`Hizmet ${i+1}`}));
+    }
+    slotEntries=db.data||[];
+    renderSlots();
+  }
+  function renderSlots(){
+    const grid=q('slot-cards');if(!grid)return;
+    grid.replaceChildren();
+    const frag=document.createDocumentFragment();
+    for(const slot of (slotOriginal[chosenPage]||[])){
+      const override=slotEntries.find(row=>row.page_type===chosenPage&&row.slot_key===slot.slot_key);
+      const box=document.createElement('article');box.className='card';
+      const pic=document.createElement('img');pic.loading='lazy';pic.alt=slot.alt;
+      pic.src=override?.image_path?url(override.image_path):slot.image;
+      const body=document.createElement('div');body.className='cardbody';
+      const name=document.createElement('strong');name.textContent=slot.label;
+      const status=document.createElement('p');status.className='sub';status.textContent=override?'Panel fotoğrafı aktif':'Orijinal fotoğraf aktif';
+      const actions=document.createElement('div');actions.className='card-actions';
+      const replace=document.createElement('button');replace.type='button';replace.className='primary';replace.textContent='Fotoğrafı Değiştir';
+      replace.onclick=()=>{
+        const file=document.createElement('input');file.type='file';file.accept='image/jpeg,image/png,image/webp';
+        file.onchange=async()=>{if(file.files[0])await saveSlot(slot,file.files[0]);};file.click();
+      };
+      const reset=document.createElement('button');reset.type='button';reset.className='secondary';
+      reset.textContent='Orijinali Geri Getir';reset.disabled=!override;
+      reset.onclick=async()=>{if(confirm('Bu görsel orijinal fotoğrafına döndürülsün mü?'))await resetSlot(slot,override);};
+      actions.append(replace,reset);body.append(name,status,actions);box.append(pic,body);frag.append(box);
+    }
+    grid.append(frag);
+    q('slot-status').textContent=`${chosenPage==='home'?'Ana Sayfa':'Hizmetlerimiz'}: 6 fotoğraf alanı · Logo ve büyük ışıklı tabela korumalı`;
+    document.querySelectorAll('[data-page-tab]').forEach(b=>b.classList.toggle('active',b.dataset.pageTab===chosenPage));
+  }
+  async function saveSlot(slot,file){
+    if(slotBusy)return;slotBusy=true;q('slot-status').textContent='Fotoğraf yükleniyor...';
+    let uploaded=null,successful=false;
+    const page=chosenPage;
+    try{
+      uploaded=await uploadPhoto(file);
+      const existing=slotEntries.find(r=>r.page_type===page&&r.slot_key===slot.slot_key);
+      const payload={page_type:page,slot_key:slot.slot_key,image_path:uploaded.image_path,thumb_path:uploaded.thumb_path,alt_text:slot.alt};
+      const {error}=await client.from('arjin_page_photos').upsert(payload,{onConflict:'page_type,slot_key'});
+      if(error)throw error;successful=true;
+      await fetchSlots();notice('Hizmet fotoğrafı güncellendi. Sayfayı yenileyerek kontrol edin.');
+      if(existing?.image_path){await client.storage.from(cfg.bucket).remove([existing.image_path,existing.thumb_path].filter(Boolean));}
+    }catch(err){if(uploaded&&!successful)await client.storage.from(cfg.bucket).remove([uploaded.image_path,uploaded.thumb_path].filter(Boolean));notice(err.message||String(err),true);}
+    finally{slotBusy=false;}
+  }
+  async function resetSlot(slot,record){
+    if(slotBusy)return;slotBusy=true;
+    try{
+      const {error}=await client.from('arjin_page_photos').delete().eq('page_type',chosenPage).eq('slot_key',slot.slot_key);
+      if(error)throw error;
+      await fetchSlots();notice('Orijinal fotoğraf geri getirildi.');
+      if(record.image_path)await client.storage.from(cfg.bucket).remove([record.image_path,record.thumb_path].filter(Boolean));
+    }catch(err){notice(err.message||String(err),true);}finally{slotBusy=false;}
+  }
+  document.querySelectorAll('[data-page-tab]').forEach(b=>b.onclick=()=>{chosenPage=b.dataset.pageTab;renderSlots();});
+  // Panel açılmadan önce saklanan bölüm, başarılı admin girişinden sonra yüklenir.
   q('login-form').addEventListener('submit',async e=>{e.preventDefault();
     try{const {error}=await client.auth.signInWithPassword({email:q('login-email').value.trim(),password:q('login-password').value});if(error)throw error;
       await assertAdmin();q('login-password').value='';showManager();await loadData();notice('Giriş başarılı.');}

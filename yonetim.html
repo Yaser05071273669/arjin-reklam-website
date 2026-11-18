@@ -12,7 +12,14 @@
 <section id="login-panel" class="box login" hidden><h1>Yönetici Girişi</h1><p>Firma tarafından yetkilendirilmiş hesapla giriş yapın.</p><form id="login-form"><label>E-posta<input id="login-email" type="email" autocomplete="username" required placeholder="sirket@ornek.com"></label><label>Şifre<input id="login-password" type="password" autocomplete="current-password" required></label><button type="submit" class="primary">Giriş Yap</button></form></section>
 <section id="manage-panel" hidden>
 <div class="heading"><div><h1>Proje Fotoğrafları</h1><p>Fotoğraf ekleyin, mevcut görselleri değiştirin, kategorilerini düzenleyin veya kaldırın.</p></div><button id="logout" class="secondary">Çıkış Yap</button></div>
-<div class="box"><h2>Yeni Fotoğraf Ekle</h2><p class="sub">Aynı kategoriden birden fazla fotoğrafı birlikte yükleyebilirsiniz. Fotoğraflar WebP formatında otomatik optimize edilir.</p>
+<div class="box" id="managed-page-photos">
+<h2>Ana Sayfa ve Hizmetler – Fotoğraf Yönetimi</h2>
+<p class="sub">Logo ve ana sayfadaki büyük ışıklı Arjin Reklam tabelası kilitlidir. Buradan yalnızca hizmet kartlarının görsellerini değiştirebilirsiniz. “Orijinali Geri Getir” fotoğrafı sıfırlar.</p>
+<div class="page-photo-tabs" role="group" aria-label="Sayfa seçimi"><button type="button" class="secondary active" data-page-tab="home">Ana Sayfa (6)</button><button type="button" class="secondary" data-page-tab="services">Hizmetlerimiz (6)</button></div>
+<p id="slot-status" class="sub" role="status"></p>
+<div class="cards" id="slot-cards"></div>
+</div>
+<div class="box"><h2>Projelerimiz – Yeni Fotoğraf Ekle</h2><p class="sub">Aynı kategoriden birden fazla fotoğrafı birlikte yükleyebilirsiniz. Fotoğraflar WebP formatında otomatik optimize edilir.</p>
 <form id="upload-form" class="upload-grid"><label>Kategori<select id="upload-category" required></select></label><label>Fotoğraflar<input id="upload-files" type="file" accept="image/jpeg,image/png,image/webp,image/heic,image/heif" multiple required></label><button class="primary" type="submit" id="upload-button">Fotoğrafları Yükle</button></form><p class="sub">En fazla 12 fotoğraf/sefer · Dosya başına 15 MB · JPEG, PNG, WebP (HEIC tarayıcı desteğine bağlı)</p></div>
 <div class="box"><div class="heading"><div><h2>Mevcut Fotoğraflar</h2><p id="photo-stats" class="sub">Yükleniyor...</p></div><div class="filters"><label>Kategori<select id="category-filter"></select></label><label>Ara<input id="photo-search" placeholder="Fotoğraf no / açıklama"></label><label class="check"><input id="show-hidden" type="checkbox"> Kaldırılanlar</label></div></div><div class="cards" id="admin-cards"></div><div id="more-bar" class="more" hidden><button class="secondary" id="load-more">Daha Fazla Göster</button></div></div>
 </section>
