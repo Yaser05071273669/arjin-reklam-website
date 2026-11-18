@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex,nofollow"><title>Fotoğraf Yönetimi | Arjin Reklam</title>
+<link rel="icon" href="assets/favicon.png"><link rel="stylesheet" href="photo-admin.css">
+<script defer src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script defer src="photo-config.js"></script><script defer src="photo-admin.js"></script>
+</head><body>
+<header class="top"><div class="wrap header"><a href="index.html"><img src="assets/arjin-logo-siyah.webp" alt="Arjin Reklam" /></a><div><b>Fotoğraf Yönetim Paneli</b><small>Yalnızca yetkili çalışanlar</small></div><a class="toplink" href="projeler.html" target="_blank" rel="noopener">Galeriyi Aç ↗</a></div></header>
+<main class="wrap">
+<div id="notice" class="notice" role="status" aria-live="polite" hidden></div>
+<section id="config-panel" class="box" hidden><h1>Kurulum gerekli</h1><p>Fotoğraf yönetim panelini çalıştırmak için şirketin Supabase projesini bağlamalısın.</p><p><b>Kurulum:</b> Paketteki <code>FOTOGRAF-PANELI-KURULUM.md</code> talimatlarını uygula, ardından <code>photo-config.js</code> dosyasını güncelle.</p></section>
+<section id="login-panel" class="box login" hidden><h1>Yönetici Girişi</h1><p>Firma tarafından yetkilendirilmiş hesapla giriş yapın.</p><form id="login-form"><label>E-posta<input id="login-email" type="email" autocomplete="username" required placeholder="sirket@ornek.com"></label><label>Şifre<input id="login-password" type="password" autocomplete="current-password" required></label><button type="submit" class="primary">Giriş Yap</button></form></section>
+<section id="manage-panel" hidden>
+<div class="heading"><div><h1>Proje Fotoğrafları</h1><p>Fotoğraf ekleyin, mevcut görselleri değiştirin, kategorilerini düzenleyin veya kaldırın.</p></div><button id="logout" class="secondary">Çıkış Yap</button></div>
+<div class="box"><h2>Yeni Fotoğraf Ekle</h2><p class="sub">Aynı kategoriden birden fazla fotoğrafı birlikte yükleyebilirsiniz. Fotoğraflar WebP formatında otomatik optimize edilir.</p>
+<form id="upload-form" class="upload-grid"><label>Kategori<select id="upload-category" required></select></label><label>Fotoğraflar<input id="upload-files" type="file" accept="image/jpeg,image/png,image/webp,image/heic,image/heif" multiple required></label><button class="primary" type="submit" id="upload-button">Fotoğrafları Yükle</button></form><p class="sub">En fazla 12 fotoğraf/sefer · Dosya başına 15 MB · JPEG, PNG, WebP (HEIC tarayıcı desteğine bağlı)</p></div>
+<div class="box"><div class="heading"><div><h2>Mevcut Fotoğraflar</h2><p id="photo-stats" class="sub">Yükleniyor...</p></div><div class="filters"><label>Kategori<select id="category-filter"></select></label><label>Ara<input id="photo-search" placeholder="Fotoğraf no / açıklama"></label><label class="check"><input id="show-hidden" type="checkbox"> Kaldırılanlar</label></div></div><div class="cards" id="admin-cards"></div><div id="more-bar" class="more" hidden><button class="secondary" id="load-more">Daha Fazla Göster</button></div></div>
+</section>
+</main><footer>Arjin Reklam · Fotoğraf yönetimi · Değişiklikler proje galerisine yansır</footer>
+</body></html>

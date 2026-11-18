@@ -1,0 +1,22 @@
+ARJİN REKLAM — 18 KASIM 2026 YEREL SEO İÇERİK GÜNCELLEMESİ
+
+DEĞİŞEN DOSYALAR
+- index.html: Ana sayfaya Başakşehir/İkitelli/İstanbul odaklı, gerçek hizmetleri anlatan ayrı bölüm eklendi.
+- projeler.html: Seçilmiş 14 gerçek fotoğrafın alt metinleri daha açıklayıcı hâle getirildi. Galeri sonrasında 14 uygulama notu eklendi. Fotoğraf kartlarının görünür kategori etiketleri ve Büyüt bağlantıları değiştirilmedi.
+- style.css: Yalnızca eklenen iki içerik bölümüne ait responsive CSS eklendi.
+
+KORUNANLAR
+- Ana sayfanın büyük ışıklı tabela görseli, orijinal giriş bölümü ve hizmet kartları
+- 338 fotoğrafın tamamı, görsellerin sırası, galeri filtreleri ve Büyüt özelliği
+- Mevcut 13 HTML sayfası, bağlantılar, tüm diğer sayfaların kodları
+- WhatsApp'a bağlanan çok aşamalı teklif sistemi ve iletişim bilgileri
+- Daha önceki SEO başlıkları, canonical adresler, sitemap.xml ve robots.txt
+
+GÜVENLİ YAYIN ADIMLARI
+1) ZIP içindeki tüm dosyaları açın ve çalışan sürümle karşılaştırın.
+2) Mevcut GitHub klasörünüzde (README.md ve .git dizini var) yalnızca index.html, projeler.html ve style.css dosyalarını değiştirin.
+3) Git commit ve push yapın; ardından mevcut Netlify projesine güncel siteyi deploy edin.
+4) Ana sayfa / projeler / teklif-al bağlantılarını telefon ve bilgisayarda test edin.
+5) Search Console'da 4-8 haftalık gerçek sorguları takip edin; ilk sayfa garantisi yoktur.
+
+ÖNEMLİ: Fotoğraf teknik detayları yalnızca görüntüde açıkça görülebilenlerle sınırlıdır. Görselden doğrulanamayan malzeme, ebat, fiyat veya uygulama ilçesi uydurulmamıştır.

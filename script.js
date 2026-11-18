@@ -119,7 +119,7 @@ filterButtons.forEach((button) => {
       );
     });
 
-    projects.forEach((card) => {
+    qsa(".project-card").forEach((card) => {
       card.hidden =
         filter !== "all" &&
         card.dataset.category !== filter;
@@ -371,14 +371,14 @@ if (
   const category = dialog.querySelector('#lightbox-category');
   const position = dialog.querySelector('#lightbox-position');
   const result = document.querySelector('#gallery-results');
-  const cards = [...document.querySelectorAll('.photo-card')];
+  const cards = () => [...document.querySelectorAll('#real-project-grid .photo-card')];
   let visibleLinks = [];
   let activeIndex = 0;
   let oldOverflow = '';
   let touchX = null;
 
   function visibleGallery() {
-    return cards.filter(card => !card.hidden).map(card => card.querySelector('.photo-frame'));
+    return cards().filter(card => !card.hidden).map(card => card.querySelector('.photo-frame'));
   }
   function drawPhoto() {
     const link = visibleLinks[activeIndex];
@@ -406,12 +406,10 @@ if (
     activeIndex = (activeIndex + step + visibleLinks.length) % visibleLinks.length;
     drawPhoto();
   }
-  cards.forEach(card => {
-    const link = card.querySelector('.photo-frame');
-    link.addEventListener('click', e => {
-      if (typeof dialog.showModal !== 'function') return;
-      e.preventDefault(); openPhoto(link);
-    });
+  document.querySelector('#real-project-grid').addEventListener('click', e => {
+    const link = e.target.closest('.photo-frame');
+    if (!link || typeof dialog.showModal !== 'function') return;
+    e.preventDefault(); openPhoto(link);
   });
   dialog.querySelector('.lightbox-close').addEventListener('click', () => dialog.close());
   dialog.querySelector('.lightbox-prev').addEventListener('click', () => move(-1));
@@ -432,7 +430,7 @@ if (
   // The existing site script performs the actual show/hide; this also updates status.
   document.querySelectorAll('.real-filter-row .filter-btn').forEach(button => {
     button.addEventListener('click', () => {
-      const n=cards.filter(card=>!card.hidden).length;
+      const n=cards().filter(card=>!card.hidden).length;
       if(result) result.textContent=`${n} fotoğraf gösteriliyor`;
     });
   });
