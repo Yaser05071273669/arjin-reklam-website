@@ -1,0 +1,11 @@
+ARJIN REKLAM FOTOĞRAF PANELİ – ANA SAYFA + HİZMETLER GENİŞLETMESİ
+
+1) Supabase > SQL Editor > New query > SUPABASE-FOTOGRAF-ALANLARI.sql içeriğini yapıştır ve Run.
+2) Bu ZIP içindeki 7 DOSYAYI mevcut çalışan VS Code projenin içine kopyala; aynı isimli dosyaları değiştir. (Tam site ZIP'i DEĞİL, yalnızca güncelleme.)
+3) Projeyi önce Live Server ile kontrol et. Ardından GitHub'a ve Netlify'a mevcut yöntemle yayınla.
+4) https://arjinreklam.com/yonetim.html adresine şirket hesabıyla giriş yap. Yönetim sayfasının üstünde Ana Sayfa ve Hizmetlerimiz sekmelerini göreceksin.
+5) Her sekmede 6 hizmet fotoğrafı değiştirilebilir; "Orijinali Geri Getir" ile eski fotoğraf görünür.
+6) "Projelerimiz" eski panelde olduğu gibi çalışır.
+
+KORUNANLAR: Logo, hero büyük ışıklı tabela, sayfa yerleşimi, WhatsApp teklif formu ve 338 projelik galeri.
+DİKKAT: Yeni görsellerin sitede gözükmesi için SQL kurulumu ve Netlify güncellemesi gereklidir.

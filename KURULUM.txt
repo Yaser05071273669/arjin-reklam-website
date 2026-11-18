@@ -1,0 +1,13 @@
+HİZMETLERİMİZ GÖRSEL DÜZELTMESİ
+
+1. Bu klasördeki hizmetler.html ve page-photo.js dosyalarını mevcut Arjin Reklam VS Code proje klasörüne kopyalayıp değiştirin.
+2. Başka hiçbir dosyayı değiştirmeyin; logo, ana sayfa ve galeri korunur.
+3. Git komutları:
+   git add hizmetler.html page-photo.js
+   git commit -m "Fix service page photo updates"
+   git push origin main
+4. Netlify otomatik yayımlamıyorsa GÜNCEL proje klasörünün tamamını mevcut Netlify projesine manuel yükleyin.
+5. Hizmetler sayfasını açıp Ctrl+Shift+R yapın.
+6. Hâlâ eskiyse Chrome F12 > Console kısmındaki "Arjin services:" veya "Arjin fotoğraf" satırlarını bize gönderin. Supabase tablo kaydını da kontrol edeceğiz.
+
+Önemli: Yönetim panelinde Hizmetlerimiz sekmesinden fotoğrafı tekrar kaydedip hizmetler.html sayfasını yeniden açın.
