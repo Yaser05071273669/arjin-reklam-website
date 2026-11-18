@@ -468,3 +468,36 @@ a[aria-current="page"] {color: #f59b38;}
 @media(max-width:1020px){.seo-intro-grid{gap:30px;}.seo-hero-photo{height:340px;}.seo-detail-grid{grid-template-columns:1fr 1fr;}.seo-gallery-tile{height:180px;}}
 @media(max-width:800px){.seo-intro-grid{grid-template-columns:1fr;}.seo-breadcrumb{margin-bottom:30px;}.seo-hero-photo{height:340px;}.seo-faq-layout{grid-template-columns:1fr;gap:24px;}.seo-end-cta .container{display:block;}.seo-end-cta .btn{margin-top:25px;}.seo-preview-header{display:block;}.seo-preview-header .btn{margin-top:10px;}.seo-gallery-grid{grid-template-columns:repeat(2,1fr);}.seo-gallery-tile{height:190px;}}
 @media(max-width:580px){.seo-service-intro{padding:24px 0 42px;}.seo-intro-copy h1{font-size:clamp(35px,10vw,51px);}.seo-intro-actions .btn{width:100%;}.seo-hero-photo{height:280px;}.seo-detail-grid{grid-template-columns:1fr;}.seo-gallery-grid{gap:9px;}.seo-gallery-tile{height:150px;}.seo-detail-block{padding:24px 21px;}.seo-end-cta .btn{width:100%;}}
+
+
+/* 2026-11-18: Eklenen yerel SEO içeriği ve açıklayıcı portföy notları.
+   Mevcut hero, hizmet kartları, fotoğraf galerisi ve teklif sistemi korunur. */
+.arjin-local-seo{background:#f7f6f2}
+.arjin-local-seo .section-head{margin-bottom:34px}
+.arjin-local-grid{display:grid;grid-template-columns:minmax(0,1.2fr) minmax(290px,.8fr);gap:32px;align-items:start}
+.arjin-local-copy,.arjin-local-links{background:#fff;border:1px solid #e6e4df;border-radius:15px;padding:clamp(24px,3vw,42px);box-shadow:0 12px 42px rgba(0,0,0,.035)}
+.arjin-local-copy h3,.arjin-local-links h3{font-size:clamp(21px,2.2vw,29px);line-height:1.25;margin:0 0 20px;color:#17171b}
+.arjin-local-copy p{color:#57575f;font-size:15px;line-height:1.85;margin:0 0 18px}
+.arjin-local-copy p strong{color:#25252b}
+.arjin-local-copy p a{color:#c34d21;text-decoration:underline;text-underline-offset:3px}
+.arjin-local-actions{display:flex;align-items:center;gap:20px;flex-wrap:wrap;margin-top:28px}
+.arjin-local-textlink{font-size:13px;font-weight:800;color:#c75024;text-decoration:none}
+.arjin-local-textlink:hover{text-decoration:underline}
+.arjin-local-links ul{padding:0;margin:0;list-style:none}
+.arjin-local-links li+li{border-top:1px solid #f0efeb}
+.arjin-local-links li a{display:block;padding:13px 0;text-decoration:none;color:#222226}
+.arjin-local-links li a strong{display:block;font-size:14px;line-height:1.4}
+.arjin-local-links li a span{display:block;color:#787780;font-size:12px;line-height:1.55;margin-top:3px}
+.arjin-local-links li a:hover strong,.arjin-local-links li a:focus-visible strong{color:#d35327}
+.arjin-portfolio-notes{background:#f7f6f2}
+.arjin-project-notes-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:15px}
+.arjin-project-note{background:#fff;padding:25px;border:1px solid #e8e5df;border-radius:12px;display:flex;flex-direction:column;gap:12px}
+.arjin-project-note-kind{font-size:10px;text-transform:uppercase;letter-spacing:.13em;color:#c75328;font-weight:900}
+.arjin-project-note h3{font-size:19px;line-height:1.25;margin:0;color:#202024}
+.arjin-project-note p{font-size:13px;line-height:1.75;color:#66666c;margin:0;flex:1}
+.arjin-project-note a{font-size:12px;font-weight:800;color:#cb5227;text-decoration:none;margin-top:8px}
+.arjin-project-note a:hover,.arjin-project-note a:focus-visible{text-decoration:underline}
+.arjin-portfolio-notes-cta{margin-top:25px;display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap}
+.arjin-portfolio-notes-cta p{color:#5d5d65;font-size:14px;line-height:1.7;max-width:640px;margin:0}
+@media(max-width:900px){.arjin-local-grid{grid-template-columns:1fr}.arjin-project-notes-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){.arjin-local-copy,.arjin-local-links{padding:24px}.arjin-project-notes-grid{grid-template-columns:1fr}.arjin-portfolio-notes-cta .btn{width:100%;text-align:center}}
